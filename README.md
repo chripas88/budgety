@@ -4,6 +4,8 @@ This project is part of the udemy course: The Complete Javascript Course 2020: B
 
 It is a code - along project in order to practise javascript basics, objects, functions, DOM manipulation and events.
 
+heroku app: https://chripas88-budgety.herokuapp.com/
+
 # Changelog:
 
 * Setting up modules
